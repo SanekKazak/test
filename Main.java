@@ -137,7 +137,7 @@ public class Main {
         //9)..............................................
 
         System.out.print("\nAnswer 9 task:\n");
-        String s1, s2, s3, s4, s5, condition1, condition2 = null;
+        String s1, s2, s3, s4, s5, condition1, condition2 = null;-first commit
         System.out.print("s1:");
         s1 = in.nextLine();
         System.out.print("s2:");
